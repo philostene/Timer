@@ -12,3 +12,17 @@ C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF
 C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
 C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ipco2530\source\repos\Timer\Timer\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.TimerApp.resources
